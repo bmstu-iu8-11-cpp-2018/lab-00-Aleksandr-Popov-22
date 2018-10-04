@@ -1,5 +1,6 @@
 #include <iostream>
-int main()//task 3
+
+int main()  //task 3
 {
       int a; int b; int c;
       std::cout << "a= ";
@@ -10,5 +11,4 @@ int main()//task 3
       std::cin >> c;
       std::cout << a << "  " << b << "  " << c << std::endl;
       return 0;
-
 }
